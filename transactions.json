@@ -1,38 +1,86 @@
 [
     {
-      "sent": 1736778640082,
-      "sender": {
-        "latitude": 47.35918083272135,
-        "longitude": 7.540342482430097
-      },
-      "receiver": {
-        "latitude": 47.24176940134642,
-        "longitude": 8.464421065023158
-      },
-      "amount": 31.485958274144465
+        "sent": 1736778640082,
+        "sender": {
+            "latitude": 47.3744,
+            "longitude": 8.5410
+        },
+        "receiver": {
+            "latitude": 46.9480,
+            "longitude": 7.4474
+        },
+        "amount": 31485.96
     },
     {
-      "sent": 1736778640082,
-      "sender": {
-        "latitude": 47.35918083272135,
-        "longitude": 7.540342482430097
-      },
-      "receiver": {
-        "latitude": 47.24176940134642,
-        "longitude": 8.464421065023158
-      },
-      "amount": 31.485958274144465
+        "sent": 1736778640083,
+        "sender": {
+            "latitude": 47.0502,
+            "longitude": 8.3093
+        },
+        "receiver": {
+            "latitude": 46.2044,
+            "longitude": 6.1432
+        },
+        "amount": 25678.50
     },
     {
-      "sent": 1736778640082,
-      "sender": {
-        "latitude": 47.35918083272135,
-        "longitude": 7.540342482430097
-      },
-      "receiver": {
-        "latitude": 47.24176940134642,
-        "longitude": 8.464421065023158
-      },
-      "amount": 31.485958274144465
+        "sent": 1736778640084,
+        "sender": {
+            "latitude": 47.5581,
+            "longitude": 7.5877
+        },
+        "receiver": {
+            "latitude": 46.8182,
+            "longitude": 8.2275
+        },
+        "amount": 42159.75
+    },
+    {
+        "sent": 1736778640085,
+        "sender": {
+            "latitude": 46.8182,
+            "longitude": 9.8424
+        },
+        "receiver": {
+            "latitude": 46.2244,
+            "longitude": 7.3598
+        },
+        "amount": 18934.20
+    },
+    {
+        "sent": 1736778640086,
+        "sender": {
+            "latitude": 47.4244,
+            "longitude": 9.3767
+        },
+        "receiver": {
+            "latitude": 46.5197,
+            "longitude": 6.6323
+        },
+        "amount": 56789.30
+    },
+    {
+        "sent": 1736778640087,
+        "sender": {
+            "latitude": 47.0502,
+            "longitude": 8.6724
+        },
+        "receiver": {
+            "latitude": 46.3180,
+            "longitude": 7.9421
+        },
+        "amount": 33567.80
+    },
+    {
+        "sent": 1736778640088,
+        "sender": {
+            "latitude": 47.3981,
+            "longitude": 8.0243
+        },
+        "receiver": {
+            "latitude": 47.1662,
+            "longitude": 7.0663
+        },
+        "amount": 27891.45
     }
-  ]
+]
